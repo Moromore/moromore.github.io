@@ -1,4 +1,3 @@
-# moromore.github.io
 # 👋 Hi, I'm Yong Tao!
 
 - 🔭 I’m currently working on Remote Sensing.
